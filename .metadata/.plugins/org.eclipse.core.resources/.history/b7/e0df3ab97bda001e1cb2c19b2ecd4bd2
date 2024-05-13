@@ -1,0 +1,15 @@
+
+package aplicacoes
+import interfaces.*;
+
+public class Geladeira implements Eletrodomesticos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+	
+
+}

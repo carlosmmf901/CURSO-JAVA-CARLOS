@@ -1,0 +1,27 @@
+package dados.copy;
+import java.util.objects;
+
+package programas;
+
+public class ClientePFTO extends ClienteTO{
+    protected String cpf;
+    protected String rg;
+	public String getCpf() {
+		return cpf;
+	}
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
+	}
+	public String getRg() {
+		return rg;
+	}
+	public void setRg(String rg) {
+		this.rg = rg;
+	}
+
+
+	return super.toString() + "ClientePFTO [cpf=" + cpf + ", rg=" + rg + "]";
+
+
+
+}

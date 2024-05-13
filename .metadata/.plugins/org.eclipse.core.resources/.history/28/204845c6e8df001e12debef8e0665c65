@@ -1,0 +1,16 @@
+package programas;
+
+public class DescontoSalarial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double[] salariosBrutos = {};
+		double[] salariosLiquidos = {};
+		
+		DoubleArrayUtils.transformaValores(salariosBrutos, );
+		
+		
+		
+	}
+
+}

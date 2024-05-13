@@ -1,0 +1,8 @@
+package programas;
+
+
+public class Soma implements OperacaoAritmetica{
+
+	
+	
+}

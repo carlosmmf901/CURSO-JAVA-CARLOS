@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;aula14/src/exercicios&apos;&#x0A;- Original project: &apos;aula14&apos;&#x0A;- Destination element: &apos;aula14/src/exercicios&apos;&#x0A;- Original elements:&#x0A;     programas.DoubleArrayUtils.java&#x0A;     programas.DescontoSalarial.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;exercicios" element1="/src&lt;programas{DoubleArrayUtils.java" element2="/src&lt;programas{DescontoSalarial.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1710190134705" units="2" version="1.0"/>
+</session>

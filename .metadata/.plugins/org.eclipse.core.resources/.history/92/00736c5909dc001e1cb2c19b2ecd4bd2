@@ -1,0 +1,5 @@
+package interfaces;
+
+public class OperacaoArtimetica {
+		double execute (double value1, double value2)
+}

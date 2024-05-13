@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+/Users/debbyr/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+3558061202.index
+2299477984.index
+476370877.index
+3671465200.index
+392931907.index
+1293608232.index
+975033790.index
+1865797976.index
+4274638425.index
+4261941110.index
+1617730261.index
+1728143052.index

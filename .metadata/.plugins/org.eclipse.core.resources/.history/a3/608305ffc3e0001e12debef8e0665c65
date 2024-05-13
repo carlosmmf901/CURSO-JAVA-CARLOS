@@ -1,0 +1,9 @@
+package Cap15_Labs;
+
+public class Estudante {
+	private nome String;
+	private notaMatematica Double;
+	private notaPortugues Double;
+	private media Double;
+	
+}

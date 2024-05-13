@@ -1,0 +1,18 @@
+package exercicios;
+import java.util.Scanner;
+
+public class ExercicioIdade {
+	public String usuarioIdade;
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("Digite seu ano de nascimento:");
+		String nome = scanner.nextLine();
+		
+		
+	}
+
+}

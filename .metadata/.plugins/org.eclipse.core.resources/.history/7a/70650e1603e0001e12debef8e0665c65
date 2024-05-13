@@ -1,0 +1,29 @@
+package aula16;
+
+import java.nio.file.Path;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.io.IOException;
+
+public class ExemploFiles {
+
+    public static void main(String[] args) {
+        try {
+     
+            Path arquivo = Paths.get("resources\\poema.txt");
+            Path novaPasta = Paths.get("resources\\textos\\rascunhos\\vazio");
+            Path pasta = Paths.get("C:\\Meus Documentos\\Mp3");
+
+           
+            if (!Files.exists(arquivo)) {
+                System.out.println("item nao existe");
+            } else if (Files.isDirectory(arquivo)) {
+                System.out.println("Item e um diretorio");
+            } else if (Files.isRegularFile(arquivo)) {
+                System.out.println("O item e um arquivo comum");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

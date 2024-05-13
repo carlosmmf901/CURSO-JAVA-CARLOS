@@ -1,0 +1,22 @@
+package programas;
+import aplicacoes.*;
+import interfaces.*;
+
+import interfaces.Eletrodomestico;
+
+public class Executando {
+
+	public static void main(String[] args) {
+		Eletrodomestico aparelho; 
+		
+		aparelho = new Geladeira();
+		aparelho.ligar();
+		
+		aparelho = new Televisao();
+		aparelho.ligar();
+		
+	
+
+	}
+
+}

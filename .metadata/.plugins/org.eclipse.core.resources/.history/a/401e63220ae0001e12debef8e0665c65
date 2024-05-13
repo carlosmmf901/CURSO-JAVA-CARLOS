@@ -1,0 +1,24 @@
+package exercicios;
+import java.io.*;
+
+
+public class Cap16_Lab1 {
+	public static void main(String[] args) {
+	
+	}
+	public static void escrever(String texto) {
+		
+		try {
+			FileOutputStream arquivo = new FileOutputStream("Cap16_Lab1.txt");
+			DataOutputStream dados = new DataOutputStream(arquivo);
+			
+			dados.writeChars(texto);
+			
+		} catch(IOException e) {
+			System.out.println(e);
+		}
+		
+	}
+}
+	
+
