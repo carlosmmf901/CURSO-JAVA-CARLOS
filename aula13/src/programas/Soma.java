@@ -7,6 +7,6 @@ public class Soma implements OperacaoAritmetica{
 		double result = value1 + value2;
 		return result;
 		
-	}
+	} 
 	
 }

@@ -11,6 +11,7 @@ public class AlunoTO {
 	  public AlunoTO() {
 		super();
 	  }
+	  
 	  public AlunoTO(int codigo, String nome, String email, String telefone) {
 		super();
 		this.codigo = codigo;
@@ -18,6 +19,7 @@ public class AlunoTO {
 		this.email = email;
 		this.telefone = telefone;
 	  }
+	  
 	public int getCodigo() {
 		return codigo;
 	}

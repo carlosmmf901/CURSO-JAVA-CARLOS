@@ -8,7 +8,8 @@ public class TestaCliente {
 		// TODO Auto-generated method stub
 			ClientePFTO objClienteTO = new ClientePFTO(1,"IMPACTA","IMPACTA@IMPACTA.COM.BR","113131331","254565464");
 		
-		
+	
+			
 		
 		
 		/*

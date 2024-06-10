@@ -1,4 +1,5 @@
 package programas;
+import interfaces.*;
 
 public class ExecutandoLambda {
 

@@ -9,7 +9,7 @@ public class Executando {
 				
 		double result = operacao.execute(15.8, 8.3);
 		
-		System.out.println(result);
+		System.out.println(result); 
 		
 		
 	}
